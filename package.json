@@ -1,0 +1,10 @@
+{
+  "name": "serveless-vault",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "olaviolacerda <olavio.lacerda@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-cli": "^2.47.0"
+  }
+}
